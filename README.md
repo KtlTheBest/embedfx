@@ -79,6 +79,6 @@ EmbedFX is released under the MIT License. Feel free to use it for research or f
 
 ---
 
-For more details, please refer to the thesis.
+For more details, please refer to the [thesis](https://github.com/KtlTheBest/embedfx/blob/master/thesis.pdf).
 
 
